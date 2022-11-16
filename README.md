@@ -169,7 +169,7 @@ EasyAlert.show(
   ``` 
 ## Example
 
-[Detailed Example](https://github.com/itsmelaxman/easyalert/tree/master/example)
+[Detailed Example](https://github.com/itsmelaxman/easyalert/tree/main/example)
 
 
 ## License
