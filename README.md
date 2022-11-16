@@ -13,7 +13,7 @@
 * Predefined Beautiful Alert Styles
 * Predefined Title & Actions
 * Super Customizable
-* Change Animation*
+* Change Animation
 * Set Autoclose
 * Set Overlay Tap to Dismiss
 * And Many More... Coming Soon...
