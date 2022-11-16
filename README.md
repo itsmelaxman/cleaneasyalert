@@ -4,7 +4,6 @@
 
 [![Pub Package](https://img.shields.io/pub/v/cleaneasyalert)](https://pub.dev/packages/cleaneasyalert)
 [![Licence](https://img.shields.io/badge/Licence-BSD-orange.svg)](https://github.com/itsmelaxman/cleaneasyalert/blob/master/LICENSE)
-[![Demo](https://img.shields.io/badge/Demo-APP-blueviolet.svg)](https://github.com/itsmelaxman/cleaneasyalert/blob/master/LICENSE)
 [![effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://dart.dev/guides/language/effective-dart)
 
 ### Salient Features 
