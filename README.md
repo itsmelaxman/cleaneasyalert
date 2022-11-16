@@ -13,7 +13,7 @@
 * Predefined Beautiful Alert Styles
 * Predefined Title & Actions
 * Super Customizable
-* Change Animation*
+* Change Animation
 * Set Autoclose
 * Set Overlay Tap to Dismiss
 * And Many More... Coming Soon...
@@ -169,7 +169,7 @@ EasyAlert.show(
   ``` 
 ## Example
 
-[Detailed Example](https://github.com/itsmelaxman/easyalert/tree/master/example)
+[Detailed Example](https://github.com/itsmelaxman/easyalert/tree/main/example)
 
 
 ## License
